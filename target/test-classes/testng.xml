@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test" parallel="false" thread-count="3" data-provider-thread-count="3">
+    <test name="api">
+        <classes>
+            <class name="com.koroyan.restassuredexample.ApiTest"/>
+        </classes>
+    </test>
+</suite>

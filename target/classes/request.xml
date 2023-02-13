@@ -2,8 +2,8 @@
     <soapenv:Header/>
     <soapenv:Body>
         <tem:AddInteger>
-            <tem:Arg1>2</tem:Arg1>
-            <tem:Arg2>9</tem:Arg2>
+            <tem:Arg1>10</tem:Arg1>
+            <tem:Arg2>10</tem:Arg2>
         </tem:AddInteger>
     </soapenv:Body>
 </soapenv:Envelope>
